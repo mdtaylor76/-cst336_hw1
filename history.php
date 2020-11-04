@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
     <head>
         <link href="css/styles.css" rel="stylesheet" type="text/css" />
         <title>HW 1: Programming Languages </title>
@@ -7,10 +7,8 @@
     </head>
     <body>
         <header>
-            <h1>
-                <p>History of</p> 
-                <p>Languages</p>
-            </h1>
+            <p><h1>History of</h1></p> 
+            <p><h1>Languages</h1></p> 
             <nav>
                 <table>
                     <tr class="table-row">

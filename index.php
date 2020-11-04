@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
     <head>
         <link href="css/styles.css" rel="stylesheet" type="text/css" />
         <link href="https://fonts.googleapis.com/css2?family=Roboto&display=swap" rel="stylesheet">
@@ -9,10 +9,8 @@
     <body>
         
         <header>
-            <h1>
-                <p>Programming</p> 
-                <p>Languages</p>
-            </h1>
+            <p><h1>Programming</h1></p> 
+            <p><h1>Languages</h1></p>
             <nav>
                 <table>
                     <tr class="table-row">
