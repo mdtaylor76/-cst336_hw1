@@ -32,6 +32,9 @@ table {
     border-spacing: 10px
 }
 
+br {
+    line-height: 200%;
+}
 
 h1 {
     color: #092834;
@@ -106,4 +109,8 @@ dt::after {
 dd {
     margin: 0 0 0 110px;
     padding: 0 0 0.5em 0;
+}
+
+#div {
+    font-size: 10%;
 }
