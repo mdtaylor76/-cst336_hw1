@@ -42,6 +42,7 @@
                     obtain the proper outcome, like finding the bread, getting the condiments, etc.
                     
                     Here's a short list of Declarative Languages:
+                </p>
                     <ul>
                         <li>Prolog</li>
                         <li>Lisp</li>
@@ -50,7 +51,7 @@
                         <li>Erlang</li>
                         <li>SQL</li>
                     </ul>
-                </p>
+                
                 <h2>Declarative Programming and the Web</h2>
                 <p>
                     Declarative programming is used widely in the world wide web.  HTML might be the most commonly

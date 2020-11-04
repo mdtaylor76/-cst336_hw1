@@ -39,6 +39,7 @@
                     Many of the most commonly used programming languages use the imperative programming paradigm starting
                     with one of the first commercially available programming languages, FORTRAN.  Below you'll find a list of programming
                     languages that use the imperative programming paradigm in order of release:
+                </p>
                     <ol>
                         <li>Fortran</li>
                         <li>ALGOL</li>
@@ -62,8 +63,7 @@
                         <dt>Modular</dt>
                         <dd>aims to separate code into modules to increase ease of re-use</dd>
                     </dl>
-                </p>
-            </div>
+                </div>
         </main>
         
         <footer>
