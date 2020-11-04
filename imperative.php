@@ -8,8 +8,12 @@
     <body>
         
         <header>
-            <p><h1>Imparative</h1></p> 
-            <p><h1>Languages</h1></p>
+            <p>
+                <h1>Imparative</h1>
+            </p> 
+            <p>
+                <h1>Languages</h1>
+            </p>
             <nav>
                 <table>
                     <tr class="table-row">
