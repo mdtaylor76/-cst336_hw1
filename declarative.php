@@ -9,7 +9,7 @@
         
         <header>
             <h1>Declarative</h1>
-            <div id="break" />
+            <div id="break">
             <h1>Languages</h1>
             <nav>
                 <table>
