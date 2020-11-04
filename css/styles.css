@@ -47,6 +47,7 @@ p {
 footer {
     background-color: #092834;
     color: #E4F1F6;
+    margin: 0px;
 }
 
 #image {
@@ -66,4 +67,43 @@ footer {
 #history {
     text-align: center;
     padding: 25px;
+}
+
+#sources {
+    padding-bottom: 25px;
+    margin: 0px;
+}
+
+#source_header {
+    padding-top: 10px;
+}
+
+a:visited {
+  color: #67AFCB;
+}
+
+a:hover { /*pseudo class*/
+    border-bottom:2px #1A3E4C solid;
+    transition: .9s; /* transition effect */
+}
+
+#current {
+    font-weight: bold;
+}
+
+dt {
+    float: left;
+    clear: left;
+    width: 100px;
+    text-align: right;
+    font-weight: bold;
+}
+
+dt::after {
+    content: ":";
+}
+
+dd {
+    margin: 0 0 0 110px;
+    padding: 0 0 0.5em 0;
 }

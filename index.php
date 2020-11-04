@@ -16,12 +16,12 @@
             <nav>
                 <table>
                     <tr class="table-row">
-                        <td><a href="index.html"> Home </a></td>
-                        <td><a href="history.html"> History </a></td>
+                       <td id="current"><a href="index.php"> Home </a></td>
+                        <td><a href="history.php"> History </a></td>
                     </tr>
                     <tr class="table-row">
-                        <td><a href="imperative.html"> Imperative </a></td>
-                        <td><a href="declarative.html"> Declarative </a></td>
+                        <td><a href="imperative.php"> Imperative </a></td>
+                        <td><a href="declarative.php"> Declarative </a></td>
                     </tr>
                 </table>
             </nav>
@@ -60,14 +60,15 @@
             </div>
         </main>
         <footer>
-            <label for="cars">Choose a car:</label>
-
-            <select name="cars" id="cars">
-                <option value="volvo">Volvo</option>
-                <option value="saab">Saab</option>
-                <option value="mercedes">Mercedes</option>
-                <option value="audi">Audi</option>
-            </select>
+            <p id="source_header">
+                Sources    
+            </p>
+            <ul id="sources">
+                <li><a href="https://devskiller.com/history-of-programming-languages/">History</a></li>
+                <li><a href="https://www.ionos.com/digitalguide/websites/web-development/imperative-programming/">Imperative Programming</a></li>
+                <li><a href="https://www.ionos.com/digitalguide/websites/web-development/declarative-programming/">Declarative Programming</a></li>
+                <li><a href="https://www.smashingmagazine.com/2014/07/declarative-programming/">Declarative Programming</a></li>
+            </ul>
         </footer>
 
     </body>
