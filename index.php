@@ -10,7 +10,7 @@
         
         <header>
             <h1>Programming</h1>
-            <div id="break">
+            <div id="break"></div>
             <h1>Languages</h1>
 
             <nav>
